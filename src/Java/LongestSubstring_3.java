@@ -19,7 +19,6 @@ public class LongestSubstring_3 {
             }
         }
 
-
         return max;
     }
 

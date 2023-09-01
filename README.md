@@ -16,14 +16,14 @@ LeetCode is a platform that provides a collection of coding challenges to help p
 
 ## Problems List
 
-| #    | Title                                                                                                                           | Solution                                         | Difficulty |
-|------|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|------------|
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [Here](.src/Java/TwoSum_1.java)                  | Easy       |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [Here](.src/Java/AddTwoNumbers_2.java)           | Medium     |
-| 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Here](.src/Java/LongestSubstring_3.java)        | Medium     |
-| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [Here](.src/Java/RomanToInteger_13.java)         | Easy       |
-| 2034 | [FIX PLS](https://leetcode.com/problems/add-two-numbers/)                                                                       | [Here](.src/Java/StockPriceFluctation_2034.java) | Easy       |
-| ...  | ...                                                                                                                             | ...                                              | ...        |
+| #    | Title                                                                                                                           | Solution                                        | Difficulty |
+|------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------|
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [Here](src/Java/TwoSum_1.java)                  | Easy       |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [Here](src/Java/AddTwoNumbers_2.java)           | Medium     |
+| 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Here](src/Java/LongestSubstring_3.java)        | Medium     |
+| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [Here](src/Java/RomanToInteger_13.java)         | Easy       |
+| 2034 | [FIX PLS](https://leetcode.com/problems/add-two-numbers/)                                                                       | [Here](src/Java/StockPriceFluctation_2034.java) | Easy       |
+| ...  | ...                                                                                                                             | ...                                             | ...        |
 
 ## License
 
